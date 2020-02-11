@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91f4e8d3-3058-4597-a538-424611fc4a33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XfmF8waAdzP0tkfOBVl3GbgZgC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Banco/src/Conta.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Exercicio2" type="AndroidJUnit" factoryName="Android JUnit">
+      <module name="Jogadores e treinamento" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Exercicio2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio2" />
+      <module name="Jogadores e treinamento" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java" type="Java Scratch" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio2.java" />
+      <module name="Jogadores e treinamento" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android JUnit.Exercicio2" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Java Scratch.java" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f4e8d3-3058-4597-a538-424611fc4a33" name="Default Changelist" comment="" />
+      <created>1581445416410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581445416410</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="40" key="#Exercicio2" timestamp="1581451200363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="40" key="#Exercicio2/0.0.1366.728@0.0.1366.728" timestamp="1581451200363" />
+    <state x="125" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581452918710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="125" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581452918710" />
+    <state x="725" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1581450275673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="725" y="63" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581450275673" />
+    <state x="409" y="59" key="#java" timestamp="1581451367826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="59" key="#java/0.0.1366.728@0.0.1366.728" timestamp="1581451367826" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1581446060160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581446060160" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581452922429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581452922429" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581452922428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581452922428" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581452922428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581452922428" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581452922429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581452922429" />
+    <state x="65" y="0" key="new project wizard" timestamp="1581451752161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581451752161" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581450213309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581450213309" />
+  </component>
+</project>
